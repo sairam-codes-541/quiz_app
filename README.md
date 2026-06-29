@@ -20,16 +20,11 @@ A responsive and interactive Quiz Application built using HTML, CSS, and JavaScr
 
 ```text
 quiz-app/
-├── assets/
-│   └── screenshot.png
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
+│── style.css
+│── script.js
 ├── index.html
 ├── README.md
 ├── LICENSE
-└── .gitignore
 ```
 
 ## Installation
